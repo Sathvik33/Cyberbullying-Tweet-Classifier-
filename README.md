@@ -1,4 +1,4 @@
-Cyberbullying Tweet Classifier
+"""Cyberbullying Tweet Classifier"""
 This project builds a machine learning model to detect and classify types of cyberbullying in tweets. The app lets users input tweet text and instantly get predictions about the type of cyberbullying present.
 
 Features
